@@ -1,0 +1,82 @@
+{
+  "Türkiye - İstanbul": [
+    41.0082,
+    28.9784,
+    3
+  ],
+  "Germany - Berlin": [
+    52.52,
+    13.405,
+    1
+  ],
+  "United Kingdom - London": [
+    51.5074,
+    -0.1278,
+    0
+  ],
+  "United States - New York": [
+    40.7128,
+    -74.006,
+    -5
+  ],
+  "United States - Los Angeles": [
+    34.0522,
+    -118.2437,
+    -8
+  ],
+  "India - New Delhi": [
+    28.6139,
+    77.209,
+    5.5
+  ],
+  "France - Paris": [
+    48.8566,
+    2.3522,
+    1
+  ],
+  "Italy - Rome": [
+    41.9028,
+    12.4964,
+    1
+  ],
+  "Netherlands - Amsterdam": [
+    52.3676,
+    4.9041,
+    1
+  ],
+  "Azerbaijan - Baku": [
+    40.4093,
+    49.8671,
+    4
+  ],
+  "UAE - Dubai": [
+    25.2048,
+    55.2708,
+    4
+  ],
+  "Saudi Arabia - Riyadh": [
+    24.7136,
+    46.6753,
+    3
+  ],
+  "Qatar - Doha": [
+    25.2854,
+    51.531,
+    3
+  ],
+  "Canada - Toronto": [
+    43.6532,
+    -79.3832,
+    -5
+  ],
+  "Australia - Sydney": [
+    -33.8688,
+    151.2093,
+    10
+  ],
+  "Japan - Tokyo": [
+    35.6762,
+    139.6503,
+    9
+  ]
+}

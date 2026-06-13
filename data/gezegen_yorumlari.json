@@ -1,0 +1,67 @@
+{
+  "Güneş": {
+    "meaning": "kimlik, irade, yaşam merkezi",
+    "shadow": "ego, aşırı kontrol, görünme ihtiyacı",
+    "advice": "Kendi merkezini netleştir, ama karar verirken tek başına hüküm verme."
+  },
+  "Ay": {
+    "meaning": "duygusal güvenlik, aile, iç refleks",
+    "shadow": "duygusal dalgalanma, geçmişe tutunma",
+    "advice": "Duyguyu bastırma; kararını duygu yükselirken değil sakinleşince ver."
+  },
+  "Merkür": {
+    "meaning": "zihin, iletişim, sözleşme, öğrenme",
+    "shadow": "fazla düşünme, yanlış anlama, acele imza",
+    "advice": "Yazılı teyit, madde madde kontrol ve ikinci okuma şarttır."
+  },
+  "Venüs": {
+    "meaning": "ilişki, sevgi, para, değer",
+    "shadow": "bağımlı bağ, değerini karşı taraftan bekleme",
+    "advice": "İlişkide ve parada beklentiyi açık yaz."
+  },
+  "Mars": {
+    "meaning": "mücadele, cesaret, hareket",
+    "shadow": "acele, öfke, çatışma",
+    "advice": "Gücünü kavga yerine planlı hamleye dönüştür."
+  },
+  "Jüpiter": {
+    "meaning": "fırsat, genişleme, inanç, yabancılar",
+    "shadow": "aşırı iyimserlik, abartı",
+    "advice": "Fırsatı büyüt ama sözleşme ve hesap kontrolünü bırakma."
+  },
+  "Satürn": {
+    "meaning": "sorumluluk, sınır, resmiyet, zaman",
+    "shadow": "gecikme, korku, katılık",
+    "advice": "Kalıcı yapı için sabır, belge ve disiplin gerekir."
+  },
+  "Uranüs": {
+    "meaning": "ani değişim, teknoloji, özgürleşme",
+    "shadow": "kopuş, huzursuzluk, öngörülemezlik",
+    "advice": "Yeniliği sisteme bağla; plansız kopuş yapma."
+  },
+  "Neptün": {
+    "meaning": "sezgi, ilham, belirsizlik, maneviyat",
+    "shadow": "sis, aldanma, kaçış",
+    "advice": "Sezgiyi veriyle doğrula; belirsiz sözlere imza atma."
+  },
+  "Plüton": {
+    "meaning": "kriz, güç, dönüşüm, kontrol",
+    "shadow": "takıntı, güç savaşı",
+    "advice": "Kontrolü paylaşmayı ve krizden sistem üretmeyi öğren."
+  },
+  "Chiron": {
+    "meaning": "yara, hassasiyet, şifa alanı",
+    "shadow": "eski acıyla tepki verme",
+    "advice": "Kendi yaranı bilgeliğe dönüştür."
+  },
+  "Kuzey Ay Düğümü": {
+    "meaning": "gelişim yönü, yaşam dersi",
+    "shadow": "konfor alanına geri kaçma",
+    "advice": "Zor gelen ama büyüten yöne doğru küçük adım at."
+  },
+  "Lilith": {
+    "meaning": "bastırılmış güç, reddedilen taraf",
+    "shadow": "isyan, keskin kopuş",
+    "advice": "Bastırılmış tarafı bilinçli ifade et; yıkıcı tepki verme."
+  }
+}

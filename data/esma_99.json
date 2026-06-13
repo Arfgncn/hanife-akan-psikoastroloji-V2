@@ -1,0 +1,992 @@
+{
+  "1": {
+    "name": "Allah",
+    "theme": "merkez ve teslimiyet",
+    "character": "Allah teması danışanın karakterinde merkez ve teslimiyet alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "2": {
+    "name": "Er-Rahmân",
+    "theme": "merhamet",
+    "character": "Er-Rahmân teması danışanın karakterinde merhamet alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "3": {
+    "name": "Er-Rahîm",
+    "theme": "şefkat",
+    "character": "Er-Rahîm teması danışanın karakterinde şefkat alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "4": {
+    "name": "El-Melik",
+    "theme": "düzen ve yönetim",
+    "character": "El-Melik teması danışanın karakterinde düzen ve yönetim alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "5": {
+    "name": "El-Kuddûs",
+    "theme": "arınma",
+    "character": "El-Kuddûs teması danışanın karakterinde arınma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "6": {
+    "name": "Es-Selâm",
+    "theme": "huzur",
+    "character": "Es-Selâm teması danışanın karakterinde huzur alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "7": {
+    "name": "El-Mü’min",
+    "theme": "güven",
+    "character": "El-Mü’min teması danışanın karakterinde güven alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "8": {
+    "name": "El-Müheymin",
+    "theme": "koruma",
+    "character": "El-Müheymin teması danışanın karakterinde koruma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "9": {
+    "name": "El-Azîz",
+    "theme": "güç",
+    "character": "El-Azîz teması danışanın karakterinde güç alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "10": {
+    "name": "El-Cebbâr",
+    "theme": "onarım",
+    "character": "El-Cebbâr teması danışanın karakterinde onarım alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "11": {
+    "name": "El-Mütekebbir",
+    "theme": "vakar",
+    "character": "El-Mütekebbir teması danışanın karakterinde vakar alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "12": {
+    "name": "El-Hâlık",
+    "theme": "yaratma",
+    "character": "El-Hâlık teması danışanın karakterinde yaratma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "13": {
+    "name": "El-Bâri",
+    "theme": "sistem kurma",
+    "character": "El-Bâri teması danışanın karakterinde sistem kurma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "14": {
+    "name": "El-Musavvir",
+    "theme": "form verme",
+    "character": "El-Musavvir teması danışanın karakterinde form verme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "15": {
+    "name": "El-Gaffâr",
+    "theme": "bağışlama",
+    "character": "El-Gaffâr teması danışanın karakterinde bağışlama alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "16": {
+    "name": "El-Kahhâr",
+    "theme": "irade",
+    "character": "El-Kahhâr teması danışanın karakterinde irade alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "17": {
+    "name": "El-Vehhâb",
+    "theme": "armağan",
+    "character": "El-Vehhâb teması danışanın karakterinde armağan alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "18": {
+    "name": "Er-Rezzâk",
+    "theme": "rızık",
+    "character": "Er-Rezzâk teması danışanın karakterinde rızık alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "19": {
+    "name": "El-Fettâh",
+    "theme": "kapı açma",
+    "character": "El-Fettâh teması danışanın karakterinde kapı açma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "20": {
+    "name": "El-Alîm",
+    "theme": "bilgi",
+    "character": "El-Alîm teması danışanın karakterinde bilgi alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "21": {
+    "name": "El-Kâbıd",
+    "theme": "daralma",
+    "character": "El-Kâbıd teması danışanın karakterinde daralma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "22": {
+    "name": "El-Bâsıt",
+    "theme": "genişleme",
+    "character": "El-Bâsıt teması danışanın karakterinde genişleme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "23": {
+    "name": "El-Hâfıd",
+    "theme": "tevazu",
+    "character": "El-Hâfıd teması danışanın karakterinde tevazu alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "24": {
+    "name": "Er-Râfi",
+    "theme": "yükseliş",
+    "character": "Er-Râfi teması danışanın karakterinde yükseliş alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "25": {
+    "name": "El-Muizz",
+    "theme": "değer",
+    "character": "El-Muizz teması danışanın karakterinde değer alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "26": {
+    "name": "El-Müzill",
+    "theme": "ders",
+    "character": "El-Müzill teması danışanın karakterinde ders alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "27": {
+    "name": "Es-Semî",
+    "theme": "dinleme",
+    "character": "Es-Semî teması danışanın karakterinde dinleme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "28": {
+    "name": "El-Basîr",
+    "theme": "görme",
+    "character": "El-Basîr teması danışanın karakterinde görme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "29": {
+    "name": "El-Hakem",
+    "theme": "hüküm",
+    "character": "El-Hakem teması danışanın karakterinde hüküm alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "30": {
+    "name": "El-Adl",
+    "theme": "adalet",
+    "character": "El-Adl teması danışanın karakterinde adalet alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "31": {
+    "name": "El-Latîf",
+    "theme": "incelik",
+    "character": "El-Latîf teması danışanın karakterinde incelik alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "32": {
+    "name": "El-Habîr",
+    "theme": "derin bilgi",
+    "character": "El-Habîr teması danışanın karakterinde derin bilgi alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "33": {
+    "name": "El-Halîm",
+    "theme": "sabır",
+    "character": "El-Halîm teması danışanın karakterinde sabır alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "34": {
+    "name": "El-Azîm",
+    "theme": "büyük bakış",
+    "character": "El-Azîm teması danışanın karakterinde büyük bakış alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "35": {
+    "name": "El-Gafûr",
+    "theme": "arınma",
+    "character": "El-Gafûr teması danışanın karakterinde arınma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "36": {
+    "name": "Eş-Şekûr",
+    "theme": "şükür",
+    "character": "Eş-Şekûr teması danışanın karakterinde şükür alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "37": {
+    "name": "El-Aliyy",
+    "theme": "yüksek bakış",
+    "character": "El-Aliyy teması danışanın karakterinde yüksek bakış alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "38": {
+    "name": "El-Kebîr",
+    "theme": "vizyon",
+    "character": "El-Kebîr teması danışanın karakterinde vizyon alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "39": {
+    "name": "El-Hafîz",
+    "theme": "koruma",
+    "character": "El-Hafîz teması danışanın karakterinde koruma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "40": {
+    "name": "El-Mukît",
+    "theme": "besleme",
+    "character": "El-Mukît teması danışanın karakterinde besleme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "41": {
+    "name": "El-Hasîb",
+    "theme": "hesap",
+    "character": "El-Hasîb teması danışanın karakterinde hesap alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "42": {
+    "name": "El-Celîl",
+    "theme": "ciddiyet",
+    "character": "El-Celîl teması danışanın karakterinde ciddiyet alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "43": {
+    "name": "El-Kerîm",
+    "theme": "cömertlik",
+    "character": "El-Kerîm teması danışanın karakterinde cömertlik alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "44": {
+    "name": "Er-Rakîb",
+    "theme": "gözlem",
+    "character": "Er-Rakîb teması danışanın karakterinde gözlem alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "45": {
+    "name": "El-Mucîb",
+    "theme": "cevap",
+    "character": "El-Mucîb teması danışanın karakterinde cevap alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "46": {
+    "name": "El-Vâsi",
+    "theme": "genişlik",
+    "character": "El-Vâsi teması danışanın karakterinde genişlik alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "47": {
+    "name": "El-Hakîm",
+    "theme": "hikmet",
+    "character": "El-Hakîm teması danışanın karakterinde hikmet alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "48": {
+    "name": "El-Vedûd",
+    "theme": "sevgi",
+    "character": "El-Vedûd teması danışanın karakterinde sevgi alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "49": {
+    "name": "El-Mecîd",
+    "theme": "şeref",
+    "character": "El-Mecîd teması danışanın karakterinde şeref alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "50": {
+    "name": "El-Bâis",
+    "theme": "uyanış",
+    "character": "El-Bâis teması danışanın karakterinde uyanış alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "51": {
+    "name": "Eş-Şehîd",
+    "theme": "tanıklık",
+    "character": "Eş-Şehîd teması danışanın karakterinde tanıklık alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "52": {
+    "name": "El-Hakk",
+    "theme": "hakikat",
+    "character": "El-Hakk teması danışanın karakterinde hakikat alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "53": {
+    "name": "El-Vekîl",
+    "theme": "teslimiyet",
+    "character": "El-Vekîl teması danışanın karakterinde teslimiyet alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "54": {
+    "name": "El-Kaviyy",
+    "theme": "dayanıklılık",
+    "character": "El-Kaviyy teması danışanın karakterinde dayanıklılık alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "55": {
+    "name": "El-Metîn",
+    "theme": "sağlamlık",
+    "character": "El-Metîn teması danışanın karakterinde sağlamlık alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "56": {
+    "name": "El-Veliyy",
+    "theme": "rehber dostluk",
+    "character": "El-Veliyy teması danışanın karakterinde rehber dostluk alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "57": {
+    "name": "El-Hamîd",
+    "theme": "övgü",
+    "character": "El-Hamîd teması danışanın karakterinde övgü alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "58": {
+    "name": "El-Muhsî",
+    "theme": "veri ve kayıt",
+    "character": "El-Muhsî teması danışanın karakterinde veri ve kayıt alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "59": {
+    "name": "El-Mubdi",
+    "theme": "başlatma",
+    "character": "El-Mubdi teması danışanın karakterinde başlatma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "60": {
+    "name": "El-Muîd",
+    "theme": "geri dönüş",
+    "character": "El-Muîd teması danışanın karakterinde geri dönüş alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "61": {
+    "name": "El-Muhyî",
+    "theme": "canlandırma",
+    "character": "El-Muhyî teması danışanın karakterinde canlandırma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "62": {
+    "name": "El-Mumît",
+    "theme": "bitirme",
+    "character": "El-Mumît teması danışanın karakterinde bitirme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "63": {
+    "name": "El-Hayy",
+    "theme": "yaşam gücü",
+    "character": "El-Hayy teması danışanın karakterinde yaşam gücü alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "64": {
+    "name": "El-Kayyûm",
+    "theme": "ayakta tutma",
+    "character": "El-Kayyûm teması danışanın karakterinde ayakta tutma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "65": {
+    "name": "El-Vâcid",
+    "theme": "keşif",
+    "character": "El-Vâcid teması danışanın karakterinde keşif alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "66": {
+    "name": "El-Mâcid",
+    "theme": "iç zenginlik",
+    "character": "El-Mâcid teması danışanın karakterinde iç zenginlik alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "67": {
+    "name": "El-Vâhid",
+    "theme": "birlik",
+    "character": "El-Vâhid teması danışanın karakterinde birlik alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "68": {
+    "name": "Es-Samed",
+    "theme": "dayanak",
+    "character": "Es-Samed teması danışanın karakterinde dayanak alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "69": {
+    "name": "El-Kâdir",
+    "theme": "yapabilme",
+    "character": "El-Kâdir teması danışanın karakterinde yapabilme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "70": {
+    "name": "El-Muktedir",
+    "theme": "yetkin güç",
+    "character": "El-Muktedir teması danışanın karakterinde yetkin güç alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "71": {
+    "name": "El-Mukaddim",
+    "theme": "öne alma",
+    "character": "El-Mukaddim teması danışanın karakterinde öne alma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "72": {
+    "name": "El-Muahhir",
+    "theme": "erteletme",
+    "character": "El-Muahhir teması danışanın karakterinde erteletme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "73": {
+    "name": "El-Evvel",
+    "theme": "başlangıç",
+    "character": "El-Evvel teması danışanın karakterinde başlangıç alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "74": {
+    "name": "El-Âhir",
+    "theme": "sonuç",
+    "character": "El-Âhir teması danışanın karakterinde sonuç alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "75": {
+    "name": "Ez-Zâhir",
+    "theme": "görünürlük",
+    "character": "Ez-Zâhir teması danışanın karakterinde görünürlük alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "76": {
+    "name": "El-Bâtın",
+    "theme": "iç hakikat",
+    "character": "El-Bâtın teması danışanın karakterinde iç hakikat alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "77": {
+    "name": "El-Vâlî",
+    "theme": "yönetim",
+    "character": "El-Vâlî teması danışanın karakterinde yönetim alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "78": {
+    "name": "El-Müteâlî",
+    "theme": "üst bilinç",
+    "character": "El-Müteâlî teması danışanın karakterinde üst bilinç alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "79": {
+    "name": "El-Berr",
+    "theme": "iyilik",
+    "character": "El-Berr teması danışanın karakterinde iyilik alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "80": {
+    "name": "Et-Tevvâb",
+    "theme": "dönüş",
+    "character": "Et-Tevvâb teması danışanın karakterinde dönüş alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "81": {
+    "name": "El-Müntekim",
+    "theme": "sonuç alma",
+    "character": "El-Müntekim teması danışanın karakterinde sonuç alma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "82": {
+    "name": "El-Afüvv",
+    "theme": "affetme",
+    "character": "El-Afüvv teması danışanın karakterinde affetme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "83": {
+    "name": "Er-Raûf",
+    "theme": "yumuşak şefkat",
+    "character": "Er-Raûf teması danışanın karakterinde yumuşak şefkat alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "84": {
+    "name": "Mâlikü’l-Mülk",
+    "theme": "sahiplik",
+    "character": "Mâlikü’l-Mülk teması danışanın karakterinde sahiplik alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "85": {
+    "name": "Zülcelâli vel İkrâm",
+    "theme": "azamet ve ikram",
+    "character": "Zülcelâli vel İkrâm teması danışanın karakterinde azamet ve ikram alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "86": {
+    "name": "El-Muksit",
+    "theme": "adil paylaştırma",
+    "character": "El-Muksit teması danışanın karakterinde adil paylaştırma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "87": {
+    "name": "El-Câmi",
+    "theme": "birleştirme",
+    "character": "El-Câmi teması danışanın karakterinde birleştirme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "88": {
+    "name": "El-Ganiyy",
+    "theme": "yeterlilik",
+    "character": "El-Ganiyy teması danışanın karakterinde yeterlilik alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "89": {
+    "name": "El-Muğnî",
+    "theme": "imkan",
+    "character": "El-Muğnî teması danışanın karakterinde imkan alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "90": {
+    "name": "El-Mâni",
+    "theme": "engel ve sınır",
+    "character": "El-Mâni teması danışanın karakterinde engel ve sınır alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "91": {
+    "name": "Ed-Dârr",
+    "theme": "zararı fark etme",
+    "character": "Ed-Dârr teması danışanın karakterinde zararı fark etme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "92": {
+    "name": "En-Nâfi",
+    "theme": "fayda",
+    "character": "En-Nâfi teması danışanın karakterinde fayda alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "93": {
+    "name": "En-Nûr",
+    "theme": "aydınlanma",
+    "character": "En-Nûr teması danışanın karakterinde aydınlanma alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "94": {
+    "name": "El-Hâdî",
+    "theme": "yol gösterme",
+    "character": "El-Hâdî teması danışanın karakterinde yol gösterme alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "95": {
+    "name": "El-Bedî",
+    "theme": "benzersiz yaratım",
+    "character": "El-Bedî teması danışanın karakterinde benzersiz yaratım alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "96": {
+    "name": "El-Bâkî",
+    "theme": "kalıcılık",
+    "character": "El-Bâkî teması danışanın karakterinde kalıcılık alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "97": {
+    "name": "El-Vâris",
+    "theme": "miras",
+    "character": "El-Vâris teması danışanın karakterinde miras alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "98": {
+    "name": "Er-Reşîd",
+    "theme": "doğru yol",
+    "character": "Er-Reşîd teması danışanın karakterinde doğru yol alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  },
+  "99": {
+    "name": "Es-Sabûr",
+    "theme": "sabır",
+    "character": "Es-Sabûr teması danışanın karakterinde sabır alanını çalıştırır. Bu enerji doğru kullanıldığında kişinin iç yönünü, karar dilini ve tekâmül farkındalığını güçlendirir.",
+    "shadow": "Gölge kullanımda kişi bu temayı ya bastırır ya da aşırı kullanır. Danışman yorumu bu gölgeyi yargılamadan görünür kılar.",
+    "career": "İş ve para alanında niyet, ölçü, yazılı veri, emek ve doğru zamanlama birlikte kontrol edilmelidir.",
+    "relationship": "İlişkide güven, sınır, beklenti ve iletişim dili bilinçli kurulmalıdır.",
+    "health": "Tıbbi hüküm vermez; beden düzeni, uyku, stres, rutin ve destek alma farkındalığı önerir.",
+    "practice": "Günlük çalışma: Bugün bu temayı hangi davranışımla olumluya çevirebilirim?"
+  }
+}

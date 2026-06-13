@@ -1,0 +1,74 @@
+{
+  "1": {
+    "title": "Benlik ve beden",
+    "meaning": "kişinin dış dünyaya verdiği ilk tepkiyi, beden dilini ve başlangıç tavrını gösterir",
+    "work": "kendini ifade etme, sınır koyma, görüntü ve davranış kalıbı",
+    "question": "Ben bir olaya ilk anda nasıl tepki veriyorum?"
+  },
+  "2": {
+    "title": "Para ve özdeğer",
+    "meaning": "kaynak, para, yetenek ve değer algısını gösterir",
+    "work": "gelir modeli, para tutma, özdeğer, maddi güven",
+    "question": "Değerimi neye göre ölçüyorum?"
+  },
+  "3": {
+    "title": "Zihin ve iletişim",
+    "meaning": "öğrenme, konuşma, yakın çevre ve bilgi akışını gösterir",
+    "work": "yazışma, eğitim, kısa yolculuk, kardeşler",
+    "question": "Düşüncemi nasıl ifade ediyorum?"
+  },
+  "4": {
+    "title": "Aile ve kökler",
+    "meaning": "ev, aile, çocukluk, iç güvenlik ve kök bağlarını gösterir",
+    "work": "aile düzeni, ev, geçmiş, iç huzur",
+    "question": "Köklerim beni destekliyor mu, bağlıyor mu?"
+  },
+  "5": {
+    "title": "Yaratıcılık ve aşk",
+    "meaning": "sahne, keyif, çocuklar, aşk ve üretkenliği gösterir",
+    "work": "yaratıcılık, romantizm, hobi, sahneye çıkma",
+    "question": "Kalbim nerede canlı hissediyor?"
+  },
+  "6": {
+    "title": "Günlük düzen ve sağlık",
+    "meaning": "iş rutini, hizmet, beden düzeni ve alışkanlıkları gösterir",
+    "work": "çalışma düzeni, uyku, beslenme, görevler",
+    "question": "Bedenim hangi rutini istiyor?"
+  },
+  "7": {
+    "title": "Evlilik ve ortaklık",
+    "meaning": "karşı taraf, sözleşme, evlilik ve açık ilişkileri gösterir",
+    "work": "evlilik, iş ortaklığı, danışan/müşteri, sözleşme",
+    "question": "Karşı tarafa nasıl ayna oluyorum?"
+  },
+  "8": {
+    "title": "Kriz ve dönüşüm",
+    "meaning": "ortak para, borç, miras, kriz, mahremiyet ve dönüşümü gösterir",
+    "work": "borç, vergi, kredi, miras, psikolojik kriz",
+    "question": "Kriz beni neye dönüştürüyor?"
+  },
+  "9": {
+    "title": "Uzaklar ve inanç",
+    "meaning": "yurt dışı, hukuk, yüksek eğitim, inanç ve büyük anlamı gösterir",
+    "work": "yabancılar, seyahat, akademi, hukuk, inanç",
+    "question": "Hayata hangi anlamla bakıyorum?"
+  },
+  "10": {
+    "title": "Kariyer ve statü",
+    "meaning": "meslek, hedef, görünür başarı ve toplum önündeki rolü gösterir",
+    "work": "kariyer, makam, yönetici, ün, hedef",
+    "question": "Toplum önünde ne inşa ediyorum?"
+  },
+  "11": {
+    "title": "Sosyal çevre ve gelecek",
+    "meaning": "ekipler, arkadaşlar, ağlar, gelecek planlarını gösterir",
+    "work": "network, dernekler, sosyal medya, uzun vadeli hedef",
+    "question": "Hangi topluluğa hizmet ediyorum?"
+  },
+  "12": {
+    "title": "Bilinçaltı ve ruhsal alan",
+    "meaning": "kapanış, bilinçaltı, izolasyon, gizli alan ve ruhsal hizmeti gösterir",
+    "work": "inziva, bilinçaltı, hastane, perde arkası, dua",
+    "question": "Görünmeyen alanda neyi tamamlıyorum?"
+  }
+}
